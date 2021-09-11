@@ -1,0 +1,27 @@
+.cScreen-white{
+    color: white;
+}
+.cScreen-blue{
+    color: #4BBEF7;
+}
+.cScreen-gray{
+    color: #8A8F93;
+}
+.cScreen-blueblack{
+    color: #2F3F58;
+}
+.cScreen-purple{
+    color: #8080FF;
+}
+.bcScreen-world{
+    background-color: rgba(128, 128, 255, 20%);
+}
+.bcScreen-phone{
+    background-color: rgba(54, 219, 153, 20%);
+}
+.bcScreen-white{
+    background-color: white;
+}
+.bcScreen-blue{
+    background-color: #4BBEF7;
+}
