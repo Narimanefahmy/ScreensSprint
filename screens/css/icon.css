@@ -91,3 +91,9 @@
 .iScreen-footer{
     background-image: url('../icons/footer.svg');
 }
+@media (max-width:800px){
+    .iScreen-D360L{
+        background-image: url('../icons/D360L.png');
+        background-repeat: no-repeat;
+    }
+}
